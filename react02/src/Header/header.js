@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>Vamos</div>
+    <div>Weather App</div>
   )
 }
 
